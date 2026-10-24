@@ -124,7 +124,7 @@
 			</ChildItems>
 		</Table>
 		<InputField name="СуммаВсего" id="76">
-			<DataPath>СуммаВсего</DataPath>
+			<DataPath>Объект.СуммаДокумента</DataPath>
 			<ReadOnly>true</ReadOnly>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="СуммаВсегоКонтекстноеМеню" id="77"/>

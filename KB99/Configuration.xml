@@ -273,6 +273,7 @@
 			<Catalog>Склады</Catalog>
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
+			<Report>ОстаткиТоваров</Report>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>

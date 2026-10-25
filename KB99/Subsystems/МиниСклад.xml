@@ -23,6 +23,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ЕдиницаИзмерения</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Организации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Склады</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОстаткиТоваров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">9a15e027-6e2d-4414-bdda-191ef32f5394</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

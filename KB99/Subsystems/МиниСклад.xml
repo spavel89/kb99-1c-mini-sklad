@@ -24,7 +24,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Организации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Склады</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОстаткиТоваров</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">9a15e027-6e2d-4414-bdda-191ef32f5394</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.Продажи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЦеныНоменклатуры</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

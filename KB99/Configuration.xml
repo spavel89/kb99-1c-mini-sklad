@@ -266,15 +266,20 @@
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
 			<CommonModule>РаботаСДокументамиКлиент</CommonModule>
+			<CommonModule>РаботаСДокументамиСервер</CommonModule>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ЕдиницаИзмерения</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>ВидЦеныНоменклатуры</Catalog>
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<Report>ОстаткиТоваров</Report>
+			<DataProcessor>Продажи</DataProcessor>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
+			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
